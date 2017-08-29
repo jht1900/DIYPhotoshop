@@ -17,4 +17,4 @@ it yourself” photo editing.
 This is applicable knowledge for anyone in any field or interest (computer
 science, but also engineering, design, art, business, data analysis, etc).
 
-Check out John Henry Thompson’s life, legacy, and work at j4u2.com
+Check out John Henry Thompson’s life, legacy, and work at http://j4u2.com
