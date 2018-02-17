@@ -18,3 +18,8 @@ This is applicable knowledge for anyone in any field or interest (computer
 science, but also engineering, design, art, business, data analysis, etc).
 
 Check out John Henry Thompson’s life, legacy, and work at http://j4u2.com
+
+Help for two session 2018-02-03 and 2018-02-10 at scribe video.
+Scribe link now retired
+http://www.scribe.org/events/youth-workshop-diy-photoshop
+
